@@ -48,10 +48,10 @@ const Header = () => {
             </a>
           </div>
           <div className="topbar-social">
-            <a href="#" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a>
-            <a href="#" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"></i></a>
-            <a href="#" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook"></i></a>
-            <a href="#" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram"></i></a>
+            <a href="https://www.linkedin.com/company/cyberariespvtltd/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a>
+            <a href="https://www.linkedin.com/company/cyberariespvtltd/" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"></i></a>
+            <a href="https://www.linkedin.com/company/cyberariespvtltd/" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook"></i></a>
+            <a href="https://www.linkedin.com/company/cyberariespvtltd/" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram"></i></a>
           </div>
         </div>
       </div>
