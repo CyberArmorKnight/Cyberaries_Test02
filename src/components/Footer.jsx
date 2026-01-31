@@ -13,16 +13,16 @@ const Footer = () => {
             At Cyber Aries Pvt. Ltd., we're committed to delivering professional, high-quality cybersecurity solutions. From proactive threat monitoring to advanced data protection.
           </p>
           <div style={{display: 'flex', gap: '15px', fontSize: '1.2rem'}}>
-            <a href="#" style={{color: 'var(--bg-soft-white)'}}>
+            <a href="https://www.linkedin.com/company/cyberariespvtltd/" style={{color: 'var(--bg-soft-white)'}}>
               <i className="fab fa-linkedin"></i>
             </a>
-            <a href="#" style={{color: 'var(--bg-soft-white)'}}>
+            <a href="https://www.linkedin.com/company/cyberariespvtltd/" style={{color: 'var(--bg-soft-white)'}}>
               <i className="fab fa-twitter"></i>
             </a>
-            <a href="#" style={{color: 'var(--bg-soft-white)'}}>
+            <a href="https://www.linkedin.com/company/cyberariespvtltd/" style={{color: 'var(--bg-soft-white)'}}>
               <i className="fab fa-facebook"></i>
             </a>
-            <a href="#" style={{color: 'var(--bg-soft-white)'}}>
+            <a href="https://www.linkedin.com/company/cyberariespvtltd/" style={{color: 'var(--bg-soft-white)'}}>
               <i className="fab fa-instagram"></i>
             </a>
           </div>
@@ -43,12 +43,12 @@ const Footer = () => {
         <div>
           <h3 className="footer-title">Our Services</h3>
           <ul className="footer-links">
-            <li><a href="#">Network Security</a></li>
-            <li><a href="#">Data Encryption</a></li>
-            <li><a href="#">Identity & Access</a></li>
-            <li><a href="#">Security Monitoring</a></li>
-            <li><a href="#">Backup & Recovery</a></li>
-            <li><a href="#">Security Configuration</a></li>
+            <li><a href="https://www.linkedin.com/company/cyberariespvtltd/">Network Security</a></li>
+            <li><a href="https://www.linkedin.com/company/cyberariespvtltd/">Data Encryption</a></li>
+            <li><a href="https://www.linkedin.com/company/cyberariespvtltd/">Identity & Access</a></li>
+            <li><a href="https://www.linkedin.com/company/cyberariespvtltd/">Security Monitoring</a></li>
+            <li><a href="https://www.linkedin.com/company/cyberariespvtltd/">Backup & Recovery</a></li>
+            <li><a href="https://www.linkedin.com/company/cyberariespvtltd/">Security Configuration</a></li>
           </ul>
         </div>
         
@@ -84,8 +84,8 @@ const Footer = () => {
         <div className="footer-bottom-content">
           <div>© 2026 CyberAries Pvt Ltd. All Rights Reserved.</div>
           <div>
-            <a href="#">Terms & Conditions</a>
-            <a href="#">Privacy Policy</a>
+            <a href="https://www.linkedin.com/company/cyberariespvtltd/">Terms & Conditions</a>
+            <a href="https://www.linkedin.com/company/cyberariespvtltd/">Privacy Policy</a>
           </div>
         </div>
       </div>
