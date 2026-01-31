@@ -113,8 +113,8 @@ const Home = () => {
   ];
 
   const stripItems = [
-    'Endpoint Protection', 'Threat Intelligence', 'Penetration Testing', 
-    'Security Audits', 'Incident Response', 'Network Security', 
+    'Endpoint Protection', 'Threat Intelligence', 'Penetration Testing',
+    'Security Audits', 'Incident Response', 'Network Security',
     'Cloud Security', 'Compliance Management'
   ];
 
@@ -217,7 +217,7 @@ const Home = () => {
                   <p className="process-description">{step.description}</p>
                 </div>
                 <div className="timeline-number">{step.number}</div>
-                <div style={{width: '45%'}}></div>
+                <div style={{ width: '45%' }}></div>
               </div>
             ))}
           </div>
@@ -241,7 +241,7 @@ const Home = () => {
                 </div>
                 <h3 className="service-title">{service.title}</h3>
                 <p className="service-description">{service.description}</p>
-                <a href="#" className="btn-secondary">Learn More</a>
+                <a href="#contact" className="btn-secondary">Learn More</a>
               </div>
             ))}
           </div>
